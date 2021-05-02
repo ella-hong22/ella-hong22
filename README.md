@@ -1,4 +1,5 @@
 ### Hi there 👋
+### 안녕하세요. 엘라입니다.  <img src="https://github.com/dl0312/dl0312/blob/master/hi.gif?raw=true" width="25px">
 
 <!--
 **ella-hong22/ella-hong22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
